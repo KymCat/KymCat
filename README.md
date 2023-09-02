@@ -1,6 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Kym%20Cat%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
-<div align=center><h1>📚 Language & Framwork 📚</h1></div>
+<div align=center><h1>🎉 Introduce</h1></div>
+<div align=center>
+  <p>● 안드로이드와 웹백엔드에 관심이 많습니다.</p>
+  <p>● 유닉스 환경에서 C언어를 통해 다양한 응용과제를 해결한 바가 있습니다.</p>
+</div>
+
+<div align=center><h1>📚 Language & Framwork</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
