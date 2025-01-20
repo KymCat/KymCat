@@ -1,6 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KymCat%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KymCat&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kohina1452)](https://solved.ac/kohina1452/)
+
+<div align=center><h1>📊 Statistics</h1></div>
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=KymCat&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=kohina1452" width="42%" height="100%"/>
+</div>
+
 
 <br><br>
 <div align=center><h1>🎉 Introduce</h1></div>
