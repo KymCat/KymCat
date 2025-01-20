@@ -5,8 +5,8 @@
 <br><br>
 <div align=center><h1>🎉 Introduce</h1></div>
 <div align=center>
-  <p>● 안드로이드와 웹백엔드에 관심이 많습니다.</p>
-  <p>● 유닉스 환경에서 C언어를 통해 다양한 응용과제를 해결한 바가 있습니다.</p>
+  <p>● Android & Backend </p>
+  <p>● I have solved various problems using the C language in a Unix environment </p>
 </div><br>
 
 <div align=center><h1>📚 Language & Framwork</h1></div>
