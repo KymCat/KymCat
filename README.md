@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KymCat%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
-<div align=center><h1>📊 Statistics</h1></div>
+<div align=center><h1>📊 Coding Test</h1></div>
 <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kohina1452" alt="Solved.ac 프로필">
   <img src="http://mazandi.herokuapp.com/api?handle=kohina1452&theme=dark"/>
