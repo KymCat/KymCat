@@ -10,8 +10,10 @@
 <br><br>
 <div align=center><h1>🎉 Introduce</h1></div>
 <div align=center>
-  <p>● Android & Backend </p>
-  <p>● I have solved various problems using the C language in a Unix environment </p>
+  <p>● 백엔드에 관심이 많음 / 2025.02.18 기준 Spring Boot 공부중... </p>
+  <p>● 유닉스환경에서 다양한 응용과제 수행 </p>
+  <p>● 안드로이드 프로젝트 : 헬린이를 위한 운동앱 / 나만의 밀키트 앱 </p>
+  <p>● KT Aivle School 수강생 / 프로젝트 : 무인국사 관리를 위한 웹 </p>
 </div><br>
 
 <div align=center><h1>📚 Language & Framwork</h1></div>
@@ -31,3 +33,8 @@
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">  
 </div>
 
+<br>
+<div align=center>
+   <h3>코딩 지식 재주입중...</h3>
+  <img src="https://media1.tenor.com/m/d_KMMaYSeb0AAAAC/girls-frontline-mp7.gif">
+</div>
