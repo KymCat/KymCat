@@ -35,6 +35,5 @@
 
 <br>
 <div align=center>
-   <h3>코딩 지식 재주입중...</h3>
-  <img src="https://media1.tenor.com/m/d_KMMaYSeb0AAAAC/girls-frontline-mp7.gif">
+   <h3>네이버 커넥트 재단 BOOSTCAMP BASIC 진행중</h3>
 </div>
