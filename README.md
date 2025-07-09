@@ -32,8 +32,3 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">  
 </div>
-
-<br>
-<div align=center>
-   <h3>네이버 커넥트 재단 BOOSTCAMP BASIC 진행중</h3>
-</div>
