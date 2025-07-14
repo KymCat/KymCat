@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,tensorflow,firebase)](https://skillicons.dev)
 
 ### `[Studying...]`
-[![My Skills](https://skillicons.dev/icons?i=spring,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,java)](https://skillicons.dev)  
 
 ### `[Solved.ac Rating]`
   <picture>
