@@ -1,34 +1,39 @@
+<div align="center">
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KymCat%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
-<div align=center><h1>📊 Coding Test</h1></div>
-<div align=center>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kohina1452" alt="Solved.ac 프로필">
-  <img src="http://mazandi.herokuapp.com/api?handle=kohina1452&theme=dark"/>
+
+### `[Main]`
+[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+
+### `[Used]`
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,linux,c,django)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,tensorflow,firebase)](https://skillicons.dev)
+
+### `[Studying...]`
+[![My Skills](https://skillicons.dev/icons?i=spring,docker)](https://skillicons.dev)  
+
+### `[Solved.ac Rating]`
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=kohina1452&compact=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=kohina1452&compact=true" />
+    <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" alt="solvedac badge" />
+</picture>
+</a>
 </div>
 
+## 🚀 Project
+### 무인국사 화재,칩입,작업자안전 탐지
+- AI를 활용한 화재, 칩입, 작업자 안전사고 감지
+- KT AIVLE SCHOOL 빅프로젝트
+- 2023.06 ~ 2023.07
 
-<br><br>
-<div align=center><h1>🎉 Introduce</h1></div>
-<div align=center>
-  <p>● 백엔드에 관심이 많음 / 2025.02.18 기준 Spring Boot 공부중... </p>
-  <p>● 유닉스환경에서 다양한 응용과제 수행 </p>
-  <p>● 안드로이드 프로젝트 : 헬린이를 위한 운동앱 / 나만의 밀키트 앱 </p>
-  <p>● KT Aivle School 수강생 / 프로젝트 : 무인국사 관리를 위한 웹 </p>
-</div><br>
+### 우리들의 밀키트 커뮤니티 앱
+- 성향에 따른 밀키트 추천
+- 목포해양대학교 캡스톤 프로젝트
+- 2022.03 ~ 2022.05
 
-<div align=center><h1>📚 Language & Framwork</h1></div>
-<div align=center> 
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-DD0031?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-  <br>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">  
-</div>
+### 게임처럼 성장하는 헬린이 앱
+- 운동 초보자를 위한 피트니스 앱
+- 목포해양대학교 동아리 활동
+- 2021.10 ~ 2021.11
