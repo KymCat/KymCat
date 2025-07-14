@@ -14,12 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,docker,java)](https://skillicons.dev)  
 
 ### `[Solved.ac Rating]`
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=kohina1452&compact=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=kohina1452&compact=true" />
-    <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" alt="solvedac badge" />
-</picture>
-</a>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kohina1452)](https://solved.ac/kohina1452)
 </div>
 
 ## 🚀 Project
