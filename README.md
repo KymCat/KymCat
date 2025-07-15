@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KymCat%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KymCat%20GitHub&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2)
 
 
 ### `[Main]`
