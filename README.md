@@ -4,20 +4,31 @@
 
 
 ### `[Main]`
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,aws,python,mysql)](https://skillicons.dev)
 
 ### `[Used]`
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,linux,c,django)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,tensorflow,firebase)](https://skillicons.dev)
 
 ### `[Studying...]`
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,java)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
 
 ### `[Solved.ac Rating]`
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kohina1452)](https://solved.ac/kohina1452)
 </div>
 
 ## 🚀 Project
+### MOA 웹 커뮤니티 프로젝트
+- Spring Boot 와 React 기반 웹 커뮤니티
+- 개인 프로젝트
+- 2026.03 ~ 2026.07
+
+### STOMP 채팅 프로젝트
+- Spring WebSocket과 STOMP 기반 실시간 채팅 웹
+- 개인 프로젝트
+- 2025.10 ~ 2025.11 (2026.08 ~ 현재)
+- 리팩토링/기능 고도화 중...
+
 ### 무인국사 화재,칩입,작업자안전 탐지
 - AI를 활용한 화재, 칩입, 작업자 안전사고 감지
 - KT AIVLE SCHOOL 빅프로젝트
